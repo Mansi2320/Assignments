@@ -1,0 +1,19 @@
+input{
+    padding: 7px;
+    height: 40px;
+}
+#inpvalue{
+    padding-right: 75px;
+}
+button{
+    padding: 7px;
+    height: 40px;
+}
+#btn1{
+    float: right;
+    margin-top: 20px;
+    
+}
+fieldset{
+    margin-bottom: 20px;
+}
